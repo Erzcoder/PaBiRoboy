@@ -22,3 +22,15 @@
 [submodule "src/roboy_dynamics"]
 	path = src/roboy_dynamics
 	url = https://github.com/Roboy/roboy_dynamics
+[submodule "src/roboy_models"]
+	path = src/roboy_models
+	url = https://github.com/Roboy/roboy_models
+[submodule "src/roboy_controlled_node_fpga"]
+	path = src/roboy_controlled_node_fpga
+	url = https://github.com/Roboy/roboy_controlled_node_fpga
+[submodule "src/roboy_realsense"]
+	path = src/roboy_realsense
+	url = https://github.com/Roboy/roboy_realsense
+[submodule "src/roboy_fpga"]
+	path = src/roboy_fpga
+	url = https://github.com/Roboy/roboy_fpga
