@@ -5,6 +5,7 @@ this repo combines all packages for dancing PaBi
 * [ROS kinetic](http://wiki.ros.org/kinetic/Installation/Ubuntu)
 * sudo apt install ros-kinetic-aruco-detect ros-kinetic-qt-build
 * sudo apt install gcc-arm-linux-gnueabihf g++-arm-linux-gnueabihf
+* sudo apt install protobuf-compiler
 * [librealsense](https://github.com/IntelRealSense/librealsense)
 
 # build
