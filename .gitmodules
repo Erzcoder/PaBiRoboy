@@ -4,9 +4,6 @@
 [submodule "src/roboy_managing_node"]
 	path = src/roboy_managing_node
 	url = https://github.com/Roboy/roboy_managing_node
-[submodule "src/roboy_powerlink"]
-	path = src/roboy_powerlink
-	url = https://github.com/Roboy/roboy_powerlink
 [submodule "src/roboy_communication"]
 	path = src/roboy_communication
 	url = https://github.com/Roboy/roboy_communication
@@ -34,3 +31,9 @@
 [submodule "src/roboy_fpga"]
 	path = src/roboy_fpga
 	url = https://github.com/Roboy/roboy_fpga
+[submodule "src/roboy_powerlink"]
+	path = src/roboy_powerlink
+	url = https://github.com/Roboy/roboy_powerlink
+[submodule "src/roboy_managing_node_fpga"]
+	path = src/roboy_managing_node_fpga
+	url = https://github.com/Roboy/roboy_managing_node_fpga
