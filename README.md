@@ -7,11 +7,13 @@ this repo combines all packages for dancing PaBi
 * sudo apt install gcc-arm-linux-gnueabihf g++-arm-linux-gnueabihf
 * sudo apt install protobuf-compiler
 * [librealsense](https://github.com/IntelRealSense/librealsense)
+* [altera soc eds standard version](https://dl.altera.com/soceds/) for arm cross compilation
 
 # build
 ```
 !#/bin/bash
 cd /path/to/PaBiRoboy
+~/intelFPGA/17.0/embedded/embedded_command_shell.sh  # only necessary if you want to cross compile for arm
 catkin_make
 ```
 
