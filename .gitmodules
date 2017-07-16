@@ -34,3 +34,6 @@
 [submodule "src/roboy_powerlink"]
 	path = src/roboy_powerlink
 	url = https://github.com/Roboy/roboy_powerlink
+[submodule "src/PaBi_trajectories_control"]
+	path = src/PaBi_trajectories_control
+	url = https://github.com/Roboy/PaBi_trajectories_control.git
